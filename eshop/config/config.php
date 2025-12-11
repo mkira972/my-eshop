@@ -3,7 +3,7 @@ session_start();
 
 // Configuration du site
 define('SITE_NAME', 'E-Shop Pro');
-define('SITE_URL', 'http://localhost/ecommerce/');
+define('SITE_URL', 'http://localhost/my-eshop/eshop/');
 
 
 // Chemins

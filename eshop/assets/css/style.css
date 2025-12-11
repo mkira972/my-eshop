@@ -67,7 +67,7 @@ body {
     font-weight: bold;
 }
 
-/* Hero Section */
+
 .hero {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
@@ -86,7 +86,7 @@ body {
     margin-bottom: 30px;
 }
 
-/* Buttons */
+
 .btn {
     display: inline-block;
     padding: 12px 24px;
@@ -133,7 +133,7 @@ body {
     width: 100%;
 }
 
-/* Categories */
+
 .categories-section {
     margin-bottom: 60px;
 }
@@ -176,7 +176,7 @@ body {
     margin-bottom: 10px;
 }
 
-/* Products */
+
 .produits-section h2 {
     font-size: 2em;
     margin-bottom: 30px;
@@ -275,7 +275,7 @@ body {
     border-radius: 5px;
 }
 
-/* Filter Section */
+
 .filter-section {
     display: flex;
     gap: 10px;
@@ -304,7 +304,7 @@ body {
     color: white;
 }
 
-/* Forms */
+
 .form-container {
     max-width: 600px;
     margin: 40px auto;
@@ -369,7 +369,7 @@ textarea {
     margin-top: 20px;
 }
 
-/* Alerts */
+
 .alert {
     padding: 15px 20px;
     border-radius: 5px;
@@ -394,7 +394,7 @@ textarea {
     border: 1px solid #bee5eb;
 }
 
-/* Panier */
+
 .panier-container {
     background: white;
     padding: 30px;
@@ -450,7 +450,7 @@ textarea {
     gap: 20px;
 }
 
-/* Admin */
+
 .admin-header {
     display: flex;
     justify-content: space-between;
@@ -559,7 +559,7 @@ textarea {
     display: inline;
 }
 
-/* Footer */
+
 .footer {
     background: #333;
     color: white;
@@ -577,7 +577,7 @@ textarea {
     min-height: calc(100vh - 200px);
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
     .nav-links {
         flex-wrap: wrap;
@@ -600,7 +600,7 @@ textarea {
         flex-direction: column;
     }
 }
-/* Checkbox group */
+
 .checkbox-group {
     display: flex;
     flex-direction: column;
@@ -623,7 +623,7 @@ textarea {
     cursor: pointer;
 }
 
-/* Current image preview */
+
 .current-image {
     margin-bottom: 15px;
     padding: 15px;
@@ -636,7 +636,7 @@ textarea {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* Admin grid layout */
+
 .admin-grid {
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -660,7 +660,7 @@ textarea {
     margin-top: 20px;
 }
 
-/* Badges */
+
 .badge {
     display: inline-block;
     padding: 5px 12px;
@@ -704,7 +704,7 @@ textarea {
     color: white;
 }
 
-/* Stats info */
+
 .stats-info {
     margin-top: 30px;
     padding: 20px;

@@ -1,5 +1,5 @@
 <?php
-require_once '../config/config.php';
+require_once 'config2/config.php';
 require_once '../classes_2/Commande.php';
 
 requireAdmin();
